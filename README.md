@@ -2,7 +2,7 @@
 
 - 👀 Estou iniciando os estudos no vasto mundo da programação, portanto 'Olá Mundo!'.
 - :white_heart: Sou apaixonado por desafios, tecnologia e pelo mundo virtual.
-- :trophy: Meu objetivo é é virar um desenvolvedor web.
+- :trophy: Meu objetivo é virar um desenvolvedor web.
 - 🔨 Habilidades em evolução.
 
 
