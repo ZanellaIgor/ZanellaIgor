@@ -1,33 +1,42 @@
 # 👋 Olá, Mundo! Me chamo Igor Zanella.
 
-Sou um desenvolvedor front-end apaixonado por resolver problemas e melhorar a experiência do usuário.
+Sou um desenvolvedor apaixonado por resolver problemas e melhorar a experiência do usuário.
 
-## Descrição
+## Sobre mim
 
-Atualmente, trabalho normalmente como Material-UI, Next.JS, TypeScript e algumas vezes com NestJs.
+Atualmente, trabalho principalmente com Next.js, TypeScript e Material-UI no front-end, e utilizo NestJS no back-end quando necessário.
 
-## Habilidades
+### Front-end
+- HTML5, CSS3
+- JavaScript, TypeScript
+- React, Next.js
+- TailwindCSS, Material UI, Shadcn/UI
 
-- **Front-end:**
-  - HTML, CSS
-  - JavaScript, TypeScript
-  - React, Next.js
-  - Material-UI
-- **Back-end:**
-  - Node.js, NestJS
-- **Banco de Dados:**
-  - PostgreSQL, Prisma
-- **Ferramentas e Workflow:**
-  - VSCode
-  - Git
-  - Jest, Cypress
+### Back-end
+- Node.js, Express, NestJS
+- REST API, GraphQL, WebSockets
+- Autenticação com JWT
+
+### Banco de Dados e Outros
+- PostgreSQL, Redis
+- Prisma ORM
+- Docker
+- CI/CD (Integração e Entrega Contínua)
+
+### Ferramentas e Workflow
+- Git, GitHub
+- VSCode
+- Testes: Jest, Cypress
 
 ## Motivação
 
-O que me motiva é melhorar constantemente minhas habilidades e crescer como pessoa, sempre em busca de novos desafios. Minha transição para a área de desenvolvimento foi motivada pelo meu interesse de longa data em tecnologia e programação, apesar de não ter estudado ou explorado muito essa área anteriormente(Pré 2022). Agora, estou focado em me desenvolver como um profissional qualificado e contribuir significativamente para os projetos em que trabalho.
+Sou movido pelo desejo de aprendizado contínuo e pela vontade de enfrentar novos desafios. Minha transição para o desenvolvimento começou em 2022, impulsionada por um interesse antigo por tecnologia e programação. Desde então, venho me dedicando para me tornar um profissional completo e contribuir de forma significativa nos projetos em que atuo.
 
 ## Graduação
 
 - **Bacharel em Engenharia Elétrica - Uniftec** (2012 - 2021)
 - **Pós Graduação Lato Sensu em Engenharia de Software - Metropolitana** (2024)
+  
+
+[![card](https://github-readme-stats.vercel.app/api?username=ZanellaIgor&theme=github_dark_dimmed_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
