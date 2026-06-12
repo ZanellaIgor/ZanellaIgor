@@ -6,7 +6,7 @@ Sou desenvolvedor de software em Caxias do Sul, transitando entre dois mundos qu
 
 Como freelancer, desenvolvo plugins para o **Autodesk Revit** em C# e WPF/MVVM, focados em automação de fluxos de engenharia MEP — pensar em lógica geométrica para posicionar e parametrizar elementos de rede automaticamente, reduzindo retrabalho e erros de modelagem.
 
-Antes disso, passei pela Windel Sistemas, onde atuei de forma full-stack em um CRM/ERP corporativo (React/Next.js no front, NestJS no back) e fui referência técnica do time: liderei a organização de arquitetura (migração para Feature-First), padronização de código e tradução de demandas de negócio em soluções técnicas — sempre respeitando fluxos legados que não podiam simplesmente "quebrar".
+Antes disso, passei pela Windel Sistemas, onde trabalhei principalmente com front-end em um CRM/ERP corporativo (React/Next.js), chegando também a atuar no back-end com NestJS. Fui referência técnica em front-end no time, contribuindo na organização de arquitetura (migração para Feature-First), padronização de código e tradução de demandas de negócio em soluções técnicas — sempre respeitando fluxos legados que não podiam simplesmente "quebrar".
 
 ## Stack que uso no dia a dia
 
@@ -20,11 +20,11 @@ Antes disso, passei pela Windel Sistemas, onde atuei de forma full-stack em um C
 - Bacharelado em Engenharia Elétrica e Eletrônica — Uniftec (2021)
 - Pós-graduação em Engenharia de Software — Faculdade Metropolitana (2024)
 
-Também sigo estudando por conta própria: NestJS, TypeORM/JWT e Next.js foram os cursos mais recentes.
+Também sigo estudando por conta própria, o mundo do desenvolvimento não para.
 
 ## Fora do código
 
-Curioso por hardware (sou do time AM5/Ryzen) e gosto de jogos de estratégia e sobrevivência nas horas vagas — Age of Empires é clássico aqui, e talvez ficar montando bases e gerenciando recursos no jogo tenha algo a ver com a parte de mim que gosta de organizar arquitetura de código.
+Curioso por hardware (sou do time AM5/Ryzen) e gosto de jogos de estratégia e sobrevivência nas horas vagas — Age of Empires 2 é clássico aqui, e talvez ficar montando bases e gerenciando recursos no jogo tenha algo a ver com a parte de mim que gosta de organizar arquitetura de código.
 
 ## Vamos trocar uma ideia?
 
