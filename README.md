@@ -1,42 +1,35 @@
-# 👋 Olá, Mundo! Me chamo Igor Zanella.
+# 👋 Oi, eu sou o Igor
 
-Sou um desenvolvedor apaixonado por resolver problemas e melhorar a experiência do usuário.
+Sou desenvolvedor de software em Caxias do Sul, transitando entre dois mundos que conversam pouco entre si: o front-end web moderno e a automação de engenharia no desktop. Gosto de entender o problema antes de sair escrevendo código — provavelmente sequela dos tempos de suporte técnico, onde aprendi que "não funciona" quase nunca é a causa real do problema.
 
-## Sobre mim
+## O que eu faço hoje
 
-Atualmente, trabalho principalmente com Next.js, TypeScript e Material-UI no front-end, e utilizo NestJS no back-end quando necessário.
+Como freelancer, desenvolvo plugins para o **Autodesk Revit** em C# e WPF/MVVM, focados em automação de fluxos de engenharia MEP — pensar em lógica geométrica para posicionar e parametrizar elementos de rede automaticamente, reduzindo retrabalho e erros de modelagem.
 
-### Front-end
-- HTML5, CSS3
-- JavaScript, TypeScript
-- React, Next.js
-- TailwindCSS, Material UI, Shadcn/UI
+Antes disso, passei pela Windel Sistemas, onde atuei de forma full-stack em um CRM/ERP corporativo (React/Next.js no front, NestJS no back) e fui referência técnica do time: liderei a organização de arquitetura (migração para Feature-First), padronização de código e tradução de demandas de negócio em soluções técnicas — sempre respeitando fluxos legados que não podiam simplesmente "quebrar".
 
-### Back-end
-- Node.js, Express, NestJS
-- REST API, GraphQL, WebSockets
-- Autenticação com JWT
+## Stack que uso no dia a dia
 
-### Banco de Dados e Outros
-- PostgreSQL, Redis
-- Prisma ORM
-- Docker
-- CI/CD (Integração e Entrega Contínua)
+**Front-end:** TypeScript, React, Next.js, Tailwind CSS, Material UI
+**Back-end:** Node.js, NestJS, REST/GraphQL, SQL
+**Desktop/Engenharia:** C#, .NET Framework, WPF (XAML), MVVM, Revit API
+**Workflow & IA:** Git, Claude Code, Cursor, prompt engineering no dia a dia
 
-### Ferramentas e Workflow
-- Git, GitHub
-- VSCode
-- Testes: Jest, Cypress
+## Formação
 
-## Motivação
+- Bacharelado em Engenharia Elétrica e Eletrônica — Uniftec (2021)
+- Pós-graduação em Engenharia de Software — Faculdade Metropolitana (2024)
 
-Sou movido pelo desejo de aprendizado contínuo e pela vontade de enfrentar novos desafios. Minha transição para o desenvolvimento começou em 2022, impulsionada por um interesse antigo por tecnologia e programação. Desde então, venho me dedicando para me tornar um profissional completo e contribuir de forma significativa nos projetos em que atuo.
+Também sigo estudando por conta própria: NestJS, TypeORM/JWT e Next.js foram os cursos mais recentes.
 
-## Graduação
+## Fora do código
 
-- **Bacharel em Engenharia Elétrica - Uniftec** (2012 - 2021)
-- **Pós Graduação Lato Sensu em Engenharia de Software - Metropolitana** (2024)
-  
+Curioso por hardware (sou do time AM5/Ryzen) e gosto de jogos de estratégia e sobrevivência nas horas vagas — Age of Empires é clássico aqui, e talvez ficar montando bases e gerenciando recursos no jogo tenha algo a ver com a parte de mim que gosta de organizar arquitetura de código.
 
-[![card](https://github-readme-stats.vercel.app/api?username=ZanellaIgor&theme=github_dark_dimmed_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+## Vamos trocar uma ideia?
 
+Sobre arquitetura front-end, automação no Revit, ou só pra trocar dica de hardware/jogo, me encontra em:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zanella-igor)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=flat-square&logo=vercel&logoColor=white)](https://igorzanelladev.com.br/)
+[![E-mail](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:igor_zanella@outlook.com)
